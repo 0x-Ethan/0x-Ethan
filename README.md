@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="VYm2wVJXmMtJb8GxttTF6DQS_JGDlWWIWL55PmRZD9Y" /> Hi there 👋
+## Hi there 👋
 
 
 Here are some ideas to get you started:
